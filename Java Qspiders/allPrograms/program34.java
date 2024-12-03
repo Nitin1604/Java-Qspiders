@@ -13,4 +13,3 @@ public class program34 {
     }
 }
 
-// It will split whenever one or more non numeric character is found
