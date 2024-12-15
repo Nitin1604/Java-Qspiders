@@ -6,8 +6,3 @@ class charProgram1
 		System.out.println("Char printing is: "+c);
 	}
 }
-
-
-
-
-
