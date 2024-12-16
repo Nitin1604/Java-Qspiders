@@ -24,8 +24,3 @@ class reverseCode
 	return rev;
 	}
 }
-
-
-
-
-
