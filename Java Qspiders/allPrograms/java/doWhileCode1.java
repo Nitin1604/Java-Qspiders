@@ -21,8 +21,3 @@ class doWhileCode1
 		System.out.println("=====Program Ends!!=====");	
 	}
 }
-
-
-
-
-
